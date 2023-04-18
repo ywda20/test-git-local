@@ -13,6 +13,7 @@
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero aut fuga reprehenderit exercitationem maxime
         suscipit modi assumenda. Voluptas aut delectus fugit dolore ab voluptate corrupti, aliquam repellendus
         architecto expedita necessitatibus. </p>
+    <p>Paragraf baru setelah terhubung</p>
 </body>
 
 </html>
