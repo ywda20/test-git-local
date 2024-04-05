@@ -7,7 +7,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Membuat Repo dari LOCAL GIT</title>
 </head>
-
 <body>
     <p>Hello World!</p>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero aut fuga reprehenderit exercitationem maxime
@@ -15,5 +14,4 @@
         architecto expedita necessitatibus. </p>
     <p>Paragraf baru setelah terhubung</p>
 </body>
-
 </html>
